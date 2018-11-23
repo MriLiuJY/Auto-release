@@ -1,0 +1,10 @@
+npm-debug.log.*
+.DS_Store
+node_modules/
+.idea
+*.js.map
+package-lock.json
+imgs
+slideImg
+proxys.json
+*.log

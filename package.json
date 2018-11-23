@@ -1,0 +1,15 @@
+{
+  "name": "gt-auto-release",
+  "version": "1.0.0",
+  "description": "FE project auto release",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "init": "node index.js"
+  },
+  "author": "JYkid",
+  "license": "ISC",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}
