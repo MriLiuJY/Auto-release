@@ -12,7 +12,7 @@ delete user['script'];
 // 设置deploy
 Object.assign(normal.deploy.production, user);
 
-const path = __dirname + "ecosystem.json"
+const path = __dirname + "/ecosystem.json"
 
 fs.writeFile(path, JSON.stringify(normal), err => {
   console.log(normal);
